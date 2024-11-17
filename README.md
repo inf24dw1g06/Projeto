@@ -29,4 +29,7 @@ O projeto consiste no desenvolvimento de uma **API RESTFUL** para a gestão de t
  -**Tabela Task**
  -**Tabela Categoria**
 
+##**Team**
+.Igor Carlos Santos Cuz A043765
+
 
