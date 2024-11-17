@@ -26,10 +26,10 @@ O projeto consiste no desenvolvimento de uma **API RESTFUL** para a gestão de t
 - **Postman** para testar e documentar os endpoints .
 
 ### **Estrutura do Banco de Dados:**
- -**Tabela Task**
- -**Tabela Categoria**
+ - **Tabela Task**
+ - **Tabela Categoria**
 
-##**Team**
+## **Team**
 .Igor Carlos Santos Cuz A043765
 
 
